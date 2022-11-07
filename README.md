@@ -1,6 +1,6 @@
 # Warsztaty DevOps dla studentów
 
-## Wymagania sprzętowe
+## Wymagania sprzętowe C?OX
 
 ### Windows
 
